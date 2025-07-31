@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.8a16f0b8.css",
+    "main.js": "/my-website/static/js/main.9e2f30f5.js",
+    "static/media/magicbus.png": "/my-website/static/media/magicbus.eea02b3d214e968bcad3.png",
+    "static/media/mealmingle1.png": "/my-website/static/media/mealmingle1.3bc49c51346b602504f8.png",
+    "static/media/bg-home.png": "/my-website/static/media/bg-home.0e414bd194e50eb7dce2.png",
+    "static/media/salonmgmt1.png": "/my-website/static/media/salonmgmt1.2fed0cc2bca987ef17b0.png",
+    "static/media/vendorbid1.png": "/my-website/static/media/vendorbid1.6f104795ae3c1377b1e2.png",
+    "static/media/python.png": "/my-website/static/media/python.ad524e089bc4a16670d6.png",
+    "static/media/gallery2.png": "/my-website/static/media/gallery2.e7039d71238b045095da.png",
+    "static/media/ibm.png": "/my-website/static/media/ibm.81290637a3d4b459782b.png",
+    "static/media/gallery1.png": "/my-website/static/media/gallery1.21e748e67611c0f887fa.png",
+    "static/media/gallery3.png": "/my-website/static/media/gallery3.d0e11bdaa2f550b7db23.png",
+    "static/media/profile.jpg": "/my-website/static/media/profile.29ff6d625d314a8e682d.jpg",
+    "static/media/inventory1.png": "/my-website/static/media/inventory1.5918d8e0150e23fd62b8.png",
+    "static/media/fleetmgmt1.png": "/my-website/static/media/fleetmgmt1.0c505828ad054ee67d80.png",
+    "static/media/aws.png": "/my-website/static/media/aws.ed69965c51bcd0f1eda7.png",
+    "index.html": "/my-website/index.html",
+    "main.8a16f0b8.css.map": "/my-website/static/css/main.8a16f0b8.css.map",
+    "main.9e2f30f5.js.map": "/my-website/static/js/main.9e2f30f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a16f0b8.css",
+    "static/js/main.9e2f30f5.js"
+  ]
+}
