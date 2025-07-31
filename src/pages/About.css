@@ -1,0 +1,64 @@
+.about-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.about-header {
+  text-align: center;
+  background: #e3f2fd;
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+.about-header h2 {
+  font-size: 2rem;
+  color: #0D47A1;
+  margin-bottom: 10px;
+}
+
+.about-header p {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #333;
+}
+
+.education-section, .skills-section, .tools-section {
+  margin-bottom: 30px;
+}
+
+.education-section h3,
+.skills-section h3,
+.tools-section h3 {
+  font-size: 1.3rem;
+  color: #1976D2;
+  margin-bottom: 15px;
+}
+
+.education-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.education-section li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.skill-tags span {
+  background-color: #e3f2fd;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 0.95rem;
+  color: #0D47A1;
+  font-weight: 500;
+}

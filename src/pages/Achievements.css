@@ -1,0 +1,66 @@
+.achievements-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.achievements-container h2 {
+  font-size: 2.2rem;
+  color: #0D47A1;
+  margin-bottom: 30px;
+}
+
+.achievement-section {
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.achievement-section h3 {
+  color: #1976D2;
+  margin-bottom: 10px;
+}
+
+.achievement-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.achievement-section li {
+  margin: 6px 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.achievements-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.achievements-container h2 {
+  font-size: 2.2rem;
+  color: #0D47A1;
+  margin-bottom: 30px;
+}
+
+.achievement-section {
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.achievement-section h3 {
+  color: #1976D2;
+  margin-bottom: 10px;
+}
+
+.achievement-section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.achievement-section li {
+  margin: 6px 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
